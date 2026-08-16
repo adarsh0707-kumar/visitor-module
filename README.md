@@ -2,7 +2,8 @@
 
 A functional preview of the **Visitor Management** module described in the "Visitor, Task, CRM" project brief — check-in/check-out, instant badge generation, QR codes, and a searchable visitor history, built as a standalone proof of concept ahead of the full three-module system (Task Management + lightweight CRM).
 
-**Live demo:** _add your Vercel/Netlify link here after deploying_
+**Live demo:** https://visitor-module-seven.vercel.app/
+**Repo:** https://github.com/adarsh0707-kumar/visitor-module
 
 ## What it does
 
